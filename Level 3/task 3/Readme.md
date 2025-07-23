@@ -1,5 +1,5 @@
-##✅ Level 3 – Task 3: City-wise Restaurant Analysis
-#🔍 Objective:
+✅ Level 3 – Task 3: City-wise Restaurant Analysis
+🔍 Objective:
 To analyze the distribution and performance of restaurants across various cities based on:
 
 Number of restaurants
@@ -8,7 +8,7 @@ Total customer votes
 
 Average ratings
 
-#📊 Key Insights:
+📊 Key Insights:
 📌 Top 10 Cities by Number of Restaurants
 These cities have the highest concentration of restaurants, indicating major hubs of food business activity.
 
@@ -24,7 +24,7 @@ Cities with consistently high-rated restaurants were identified.
 
 Helps pinpoint areas with high service quality and customer satisfaction.
 
-#📈 Visualization:
+📈 Visualization:
 Three bar plots were generated to visually represent:
 
 Restaurant Count per City
@@ -35,7 +35,7 @@ Average Ratings per City
 
 These visualizations make it easy to interpret which cities dominate in quantity and quality of dining options.
 
-#🧠 Conclusion:
+🧠 Conclusion:
 High restaurant count ≠ High rating — Some cities had many restaurants but lower average ratings.
 
 Cities with fewer restaurants can still rank high in average ratings, showing potential for niche quality markets.
