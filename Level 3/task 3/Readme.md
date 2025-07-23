@@ -1,45 +1,48 @@
-✅ Level 3 – Task 3: City-wise Restaurant Analysis
-🔍 Objective:
-To analyze the distribution and performance of restaurants across various cities based on:
+# Cognifyz Data Science Internship – Final Task Report
 
-Number of restaurants
+## 📌 Level 3 – Task 3: Data Visualization
 
-Total customer votes
+### ✅ Objective
+The goal of this task was to:
+- Visualize the distribution of restaurant ratings.
+- Compare average ratings by cuisines and cities.
+- Understand how various features relate to restaurant ratings.
 
-Average ratings
+---
 
-📊 Key Insights:
-📌 Top 10 Cities by Number of Restaurants
-These cities have the highest concentration of restaurants, indicating major hubs of food business activity.
+### 📊 Work Done
 
-Useful for identifying potential markets with high competition or customer density.
+#### 1. Rating Distribution
+- Plotted a histogram to display the spread of ratings across restaurants.
+- Observed that most restaurants fall in the 2.5 to 4.5 rating range.
 
-📌 Top 10 Cities by Total Votes
-Cities like Delhi NCR, Bangalore, and Mumbai ranked high in total votes.
+#### 2. Average Ratings by Cuisine
+- Extracted primary cuisines from the dataset.
+- Identified top-rated cuisines like Sunda, Scottish, Cajun, and Persian.
+- Visualized using horizontal bar charts.
 
-Indicates customer engagement and active food culture in these regions.
+#### 3. Average Ratings by City
+- Grouped data by city and analyzed top 10 cities by average ratings.
+- Visualized insights using Seaborn bar plots.
 
-📌 Top 10 Cities by Average Rating
-Cities with consistently high-rated restaurants were identified.
+#### 4. Feature Analysis
+- Compared average ratings based on:
+  - Price range (boxplot)
+  - Online delivery availability (bar plot)
+- Found that premium restaurants tend to have slightly higher ratings.
+- Online delivery has minimal impact on rating.
 
-Helps pinpoint areas with high service quality and customer satisfaction.
+---
 
-📈 Visualization:
-Three bar plots were generated to visually represent:
+### 📈 Tools & Libraries Used
+- Python
+- Pandas
+- Matplotlib
+- Seaborn
 
-Restaurant Count per City
+---
 
-Total Votes per City
-
-Average Ratings per City
-
-These visualizations make it easy to interpret which cities dominate in quantity and quality of dining options.
-
-🧠 Conclusion:
-High restaurant count ≠ High rating — Some cities had many restaurants but lower average ratings.
-
-Cities with fewer restaurants can still rank high in average ratings, showing potential for niche quality markets.
-
-This analysis is vital for restaurant chains, delivery startups, or investors aiming for city-level market targeting.
-
+### ✅ Outcome
+Successfully visualized patterns and relationships in the restaurant dataset.
+Gained insights into factors that influence restaurant ratings such as cuisine type, location, pricing, and service offerings.
 
