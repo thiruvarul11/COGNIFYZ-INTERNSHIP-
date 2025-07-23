@@ -15,6 +15,7 @@ Contains restaurant data such as name, location, cuisine, rating, votes, deliver
 
 📌 Task Overview
 ✅ Level 1 – Task 1: Data Exploration and preprocessing Analysis
+
 Objective: To understand the structure of the dataset and explore missing values, data types, and aggregate ratings.
 
 Steps:
@@ -34,6 +35,7 @@ Very few missing values (Cuisines column).
 Ratings follow a skewed distribution with a majority having a rating of 0.0.
 
 ✅ Level 2 – Task 1: Table Booking and Online Delivery Analysis
+
 Objective: To analyze availability and impact of table booking and online delivery options on ratings.
 
 Analysis Performed:
@@ -57,6 +59,7 @@ Only 12.1% of restaurants offer table booking, yet these have higher average rat
 25.7% offer online delivery; these also show slightly better customer interaction.
 
 ✅ Level 3 – Task 2: Customer Preference Analysis
+
 Objective: To identify:
 
 Top 10 most popular cuisines by vote
@@ -82,6 +85,7 @@ Visuals:
 Two horizontal bar charts with vote counts and average ratings.
 
 ✅Level 3 – Task 3: Data Visualization
+
 Created multiple visualizations using matplotlib and seaborn:
 
 Histogram + KDE for distribution of Aggregate Rating
@@ -119,6 +123,7 @@ Less common cuisines often have higher average ratings
 Certain cities consistently offer better-rated restaurants
 
 📁 Folder Structure
+
 📦zomato-data-analysis
  ┣ 📊 Notebooks/
  ┃ ┗ zomato_analysis.ipynb
@@ -128,6 +133,7 @@ Certain cities consistently offer better-rated restaurants
  ┗ 📘 README.md
  
 📬 Acknowledgements
+
 Special thanks to Cognifyz Technologies for this valuable internship opportunity and structured learning path.
 
 
