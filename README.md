@@ -81,3 +81,53 @@ Visuals:
 
 Two horizontal bar charts with vote counts and average ratings.
 
+✅Level 3 – Task 3: Data Visualization
+Created multiple visualizations using matplotlib and seaborn:
+
+Histogram + KDE for distribution of Aggregate Rating
+
+Bar charts for:
+
+Top 10 cuisines by average rating
+
+Top 10 cities by average rating
+
+Box plot to show relationship between Price range and Aggregate rating
+
+📊 Tools & Libraries Used
+Python
+
+Pandas
+
+NumPy
+
+Matplotlib
+
+Seaborn
+
+Google Colab
+
+🔍 Key Insights
+Most restaurants do not offer table booking or online delivery
+
+Ratings are positively influenced by table booking availability
+
+High price range restaurants tend to have better ratings
+
+Less common cuisines often have higher average ratings
+
+Certain cities consistently offer better-rated restaurants
+
+📁 Folder Structure
+📦zomato-data-analysis
+ ┣ 📊 Notebooks/
+ ┃ ┗ zomato_analysis.ipynb
+ ┣ 📈 Visualizations/
+ ┃ ┗ [All generated graphs]
+ ┣ 📄 zomato.csv
+ ┗ 📘 README.md
+ 
+📬 Acknowledgements
+Special thanks to Cognifyz Technologies for this valuable internship opportunity and structured learning path.
+
+
