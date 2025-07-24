@@ -45,15 +45,3 @@ The goal of this task was to:
 ### ✅ Outcome
 Successfully visualized patterns and relationships in the restaurant dataset.
 Gained insights into factors that influence restaurant ratings such as cuisine type, location, pricing, and service offerings.
-
-### 📁 Folder Structure
-├── Level-3-Task-3-Data-Visualization/
-│ ├── zomato.csv
-│ ├── analysis.ipynb
-│ ├── visualizations/
-│ │ ├── ratings_distribution.png
-│ │ ├── top_cuisines_ratings.png
-│ │ ├── top_cities_ratings.png
-│ │ ├── price_vs_rating.png
-│ │ └── delivery_vs_rating.png
-│ └── README.md
