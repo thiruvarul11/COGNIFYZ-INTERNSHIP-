@@ -123,15 +123,6 @@ Less common cuisines often have higher average ratings
 
 Certain cities consistently offer better-rated restaurants
 
-📁 Folder Structure
-
-📦zomato-data-analysis
- ┣ 📊 Notebooks/
- ┃ ┗ zomato_analysis.ipynb
- ┣ 📈 Visualizations/
- ┃ ┗ [All generated graphs]
- ┣ 📄 zomato.csv
- ┗ 📘 README.md
  
 📬 Acknowledgements
 
